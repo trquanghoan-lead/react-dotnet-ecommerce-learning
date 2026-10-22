@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+
+# Environment
+.env
+/ECommerceBackend/.vs/CopilotSnapshots/C5694305AFA63B4CBB6196EA37BEC906
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+.vs/
+.vscode/
